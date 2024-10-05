@@ -1,2 +1,2 @@
 # simon-says-game
-this is game to check memory power.
+this is game to check memory power..
